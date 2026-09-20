@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Jirayu&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Application%20Developer%20%7C%20IT%20%26%20Application%20Support&descAlignY=60&descSize=16)
+![Jirayu — Web Application Developer and IT Application Support](./assets/profile-header.svg)
 
 ### Hi there, I'm Jirayu 👋
 
@@ -103,7 +103,5 @@ My work sits at the intersection of **software, infrastructure, and business ope
 
 I'm always open to learning, exchanging ideas, and building useful solutions.  
 Thanks for visiting my profile! 😊
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer)
 
 </div>
